@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "Fox is out Foxed",
+      "description": "Fox tricked by pickle looking snake.",
+      "id": 1
+    },
+    {
+      "title": "Wolf Finds Pack, Pack Packs Up",
+      "description": "On to the great wide open they say!",
+      "id": 2
+    },
+    {
+      "title": "Essential Worker Bear",
+      "description": "Hard at work gardening bear keeps Yosemite green!",
+      "id": 3
+    },
+    {
+      "title": "Miss Chubby Wobby Lovey Thing 2020",
+      "description": "Wombat wins the pageant!",
+      "id": 4
+    }
+  ]
+}
